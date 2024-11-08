@@ -1,0 +1,26 @@
+body {
+	background-color: #B5D99C;
+	color: white;
+	font-family: times new roman;
+
+}
+
+h1 {
+	color: lightpink;
+}
+h2 {
+	color: lightblue;
+}
+.container{
+	background-color: #0F0326;
+	box-shadow: 7px 7px 5px 3px rgba(0,0,0,0.75);
+-webkit-box-shadow: 7px 7px 5px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: 7px 7px 5px 3px rgba(0,0,0,0.75);;
+}
+
+.rounded {
+	border: solid white;
+	width:265px;
+	height:auto;
+
+}
